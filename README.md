@@ -1,5 +1,7 @@
 # Quantitative Trading Strategy Research Platform
 
+🚀 **Live Demo:** [Launch Dashboard](https://quantitative-trading-dashboard-ucj5hgezwuaqbggyrti39f.streamlit.app)
+
 An interactive Streamlit dashboard for backtesting systematic equity trading
 strategies, evaluating them with institutional-grade risk metrics, and
 comparing them against buy & hold and a market benchmark — built on top of
@@ -9,7 +11,6 @@ in `notebooks/01_sma_crossover_backtest.ipynb`.
 > Research and educational tool. Not investment advice. Backtested
 > performance does not account for transaction costs, slippage, or taxes,
 > and is not indicative of future results.
-
 ---
 
 ## Project Overview
